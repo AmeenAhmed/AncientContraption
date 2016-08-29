@@ -1,0 +1,17 @@
+/Users/ameen/Documents/Ancient Technology/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/ameen/Documents/Ancient Technology/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/ameen/Documents/Ancient Technology/obj/Debug/Assembly-CSharp.dll
+/Users/ameen/Documents/Ancient Technology/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/ameen/Documents/Ancient Technology/Temp/bin/Debug/UnityEngine.dll
+/Users/ameen/Documents/Ancient Technology/Temp/bin/Debug/UnityEditor.dll
+/Users/ameen/Documents/Ancient Technology/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/ameen/Documents/Ancient Technology/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/ameen/Documents/Ancient Technology/Temp/bin/Debug/Mono.Cecil.dll
+/Users/ameen/Documents/Ancient Technology/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/ameen/Documents/Ancient Technology/Temp/bin/Debug/Unity.DataContract.dll
+/Users/ameen/Documents/Ancient Technology/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/ameen/Documents/Ancient Technology/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/ameen/Documents/Ancient Technology/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/ameen/Documents/Ancient Technology/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/ameen/Documents/Ancient Technology/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/ameen/Documents/Ancient Technology/Temp/bin/Debug/Mono.Cecil.Mdb.dll
